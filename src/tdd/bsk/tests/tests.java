@@ -25,6 +25,8 @@ public class tests {
 	 * (MORE INFO below in the test cases!)
 	 *
 	 * Online Bowling Game Score Calculator: https://bowlinggenius.com
+	 * 
+	 * Citations: Used ChatGPT 4.0 to help discover edge cases / special cases to test
 	 */
 
 	private BowlingGame game;
